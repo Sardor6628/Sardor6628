@@ -1,4 +1,8 @@
-### Hi, I am Sardor (aka Sam)!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sardor+(aka Sam)!;" />
+</h1>
+
+
 I'm a software engineer based in Busan, South Korea. With over 4 years of experience in the industry, I specialize in software development for iOS and Android app development. I am detail-oriented and always eager to learn. Throughout my professional journey, I have been involved in numerous projects across various domains, including fitness, smart workouts, English learning, hot wallets, parcel delivery, and government applications for forest protection. applications for forest protection.
 
 ## 🛠️ Skills<br/>
@@ -31,15 +35,11 @@ I'm a software engineer based in Busan, South Korea. With over 4 years of experi
 When not coding, I enjoy reading fantasy and self-development books, watching movies, hiking, and socializing. I'm passionate about learning and continuously seek to improve my skills and knowledge.
 
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sardor6628&show_icons=true)
-
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 

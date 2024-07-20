@@ -33,5 +33,13 @@ When not coding, I enjoy reading fantasy and self-development books, watching mo
 
 ![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sardor6628&show_icons=true)
 
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/Sardor6628/Sardor6628/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+
 
 

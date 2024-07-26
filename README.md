@@ -6,7 +6,7 @@
   <tr>
 	      <td>
 
-I'm a software engineer based in Busan, South Korea. With over 4 years of experience in the industry, I specialize in software development for iOS and Android app development. I am detail-oriented and always eager to learn. Throughout my professional journey, I have been involved in numerous projects across various domains, including fitness, smart workouts, English learning, hot wallets, parcel delivery, and government applications for forest protection. applications for forest protection.
+I'm a software engineer based in Busan, South Korea. With over 4 years of experience in the industry, I specialize in software development for iOS and Android app development. I am detail-oriented and always eager to learn. Throughout my professional journey, I have been involved in numerous projects across various domains, including fitness, smart workouts, English learning, hot wallets, parcel delivery, and government applications for forest protection.
     </td>
     <td>
     

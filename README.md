@@ -8,7 +8,7 @@
     <strong>Software Engineer | Mobile & Backend Development</strong><br>
     Based in Busan, South Korea, I specialize in developing high-quality iOS and Android applications, along with backend development using FastAPI. My experience spans diverse projects, including fitness, smart workouts, English learning, hot wallets, parcel delivery, and government applications for forest protection. Additionally, I have worked on automation solutions using Generative AI to enhance efficiency and innovation. Detail-oriented and adaptable, I thrive in dynamic environments that challenge me to grow and innovate.
   </td>
-</tr>
+<td>
     
  <img width=2000 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sardor6628&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  </td>

@@ -4,11 +4,11 @@
 </h1>
 <table>
   <tr>
-	      <td>
-
-I'm a software engineer based in Busan, South Korea. I am a seasoned software developer with extensive experience in building robust and user-friendly software applications, I specialize in software development for iOS and Android app development. I am detail-oriented and always eager to learn. Throughout my professional journey, I have been involved in numerous projects across various domains, including fitness, smart workouts, English learning, hot wallets, parcel delivery, and government applications for forest protection.
-    </td>
-    <td>
+  <td>
+    <strong>Software Engineer | Mobile & Backend Development</strong><br>
+    Based in Busan, South Korea, I specialize in developing high-quality iOS and Android applications, along with backend development using FastAPI. My experience spans diverse projects, including fitness, smart workouts, English learning, hot wallets, parcel delivery, and government applications for forest protection. Additionally, I have worked on automation solutions using Generative AI to enhance efficiency and innovation. Detail-oriented and adaptable, I thrive in dynamic environments that challenge me to grow and innovate.
+  </td>
+</tr>
     
  <img width=2000 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=Sardor6628&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
  </td>
